@@ -1,0 +1,24 @@
+{
+  "name": "typescript-tests",
+  "version": "1.0.0",
+  "scripts": {
+    "typings": "typings",
+    "tsc": "tsc",
+    "karma": "karma",
+    "mocha": "mocha"
+  },
+  "author": "Gabriel Plassard",
+  "description": "Project for setting up tests with typescript",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "karma": "^1.1.1",
+    "karma-chai": "^0.1.0",
+    "karma-mocha": "^1.1.1",
+    "karma-phantomjs-launcher": "^1.0.1",
+    "karma-requirejs": "^1.0.0",
+    "mocha": "^2.5.3",
+    "requirejs": "^2.2.0",
+    "typescript": "^1.8.10",
+    "typings": "^1.3.1"
+  }
+}
