@@ -16,7 +16,7 @@
   "description": "Project for setting up tests with typescript",
   "devDependencies": {
     "chai": "^3.5.0",
-    "chai-as-promised": "^5.3.0",
+    "chai-as-promised": "^7.1.1",
     "concurrently": "^2.2.0",
     "mocha": "^2.5.3",
     "rest": "^2.0.0",
